@@ -11,3 +11,8 @@
 - language
   - C, C++, Lua, HTML, CSS, JS, Scratch 💫
   - 8 years of experience 
+
+- My Self
+  - Name: Ramsey
+  - Age: Unknown
+  - City: Unknown
