@@ -4,7 +4,7 @@
 
 ---
 
-<a href="https://discord.com/users/899699593581830185">
+<a href="https://discord.gg/uf4gY8bsw5">
   <img src="https://cdn.discordapp.com/attachments/1114152874184814635/1114152905679835227/unnamed.png" style="width: 2vw; height=2vw" align="right" />
 </a>
 
