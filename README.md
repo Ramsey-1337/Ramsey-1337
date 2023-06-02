@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Ramsey-1337/Ramsey-1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">My BIO</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<a href="https://discord.com/users/899699593581830185">
+  <img src="https://cdn.discordapp.com/attachments/1114152874184814635/1114152905679835227/unnamed.png" align="right" />
+</a>
+
+- language
+  - C, C++, Lua, HTML, CSS, JS, Scratch 💫
+  - 8 years of experience 
